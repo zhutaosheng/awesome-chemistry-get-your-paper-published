@@ -1,0 +1,21 @@
+site_name: Awesome Chemistry
+site_url: https://zhutaosheng.github.io/awesome-chemistry-get-your-paper-published
+site_description: A curated list of chemistry libraries and software. Please feel free to contribute!
+site_author: Zhutao Sheng
+repo_name: zhutaosheng/awesome-chemistry-get-your-paper-published
+repo_url: https://github.com/zhutaosheng/awesome-chemistry-get-your-paper-published
+  name: material
+  palette:
+    primary: red
+    accent: pink
+extra:
+  social:
+    - type: github
+      link: https://github.com/zhutaosheng/awesome-chemistry-get-your-paper-published
+google_analytics:
+  - UA-510626-7
+  - auto
+extra_css:
+    - css/extra.css
+nav:
+  - "Awesome Libraries": "index.md"
